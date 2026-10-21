@@ -14,6 +14,8 @@ public static void main(String[] args) {
 	System.out.println("Reversed string: " + reverseString1(str));
 
 	}
+
+	//Using two pointer approach
 	public static String reverseString1(String str) {
 		char[] arr = str.toCharArray();
 		int start;
@@ -28,7 +30,7 @@ public static void main(String[] args) {
 		return new String(arr);
 	}
 
-
+	//Using Java Stack class
 	public static String reverseString2(String str) {
 		
 		Stack<Character> stack = new Stack<>();
