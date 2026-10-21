@@ -1,4 +1,5 @@
-/* Palindrome is a string which reads same when read forward and backward.
+/* From Dinesh
+ * Palindrome is a string which reads same when read forward and backward.
  * 1. Reverse the string 
  * 2. Check if initial and reversed strings are equal or not 
  */
