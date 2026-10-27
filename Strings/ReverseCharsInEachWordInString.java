@@ -1,7 +1,7 @@
 /*
  * I/P : The sky is blue
  */
-package StringsAndArrays;
+package Strings;
 
 import java.util.Scanner;
 

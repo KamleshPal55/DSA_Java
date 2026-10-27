@@ -3,7 +3,7 @@
  * O/P - blue is sky The
  */
 
-package StringsAndArrays;
+package Strings;
 
 import java.util.Arrays;
 import java.util.Scanner;
